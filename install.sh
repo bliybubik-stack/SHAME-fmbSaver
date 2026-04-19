@@ -1,0 +1,17 @@
+#!/bin/bash
+echo "========================================"
+echo "        FMB-SAVER INSTALLER"
+echo "========================================"
+echo ""
+echo "Installing required packages..."
+echo ""
+pip3 install -r requirements.txt
+echo ""
+echo "========================================"
+echo "INSTALLATION COMPLETE!"
+echo "========================================"
+echo ""
+echo "To run FMB-SAVER:"
+echo "   1. Double-click run.sh"
+echo "   2. Or type: python3 fmb_saver.py"
+echo ""
