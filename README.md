@@ -23,17 +23,22 @@ The result? You stop wasting Robux. Somehow. It works.
 ## Features
 
 - Instant aggressive roasts - 0ms delay, full-screen shame
-- Special femboy style - every 5 catches (pink background, meow, daddy, cutie~)
+- Special femboy style - every 5 catches (added fot fun)
 - One-time calibration - draw a box around any buy button
 - Blazing fast - 1000+ FPS screen scanning
 - Remembers your button - template saved forever
 
+## Other
+--My use of ABSOLUTELY free will
+--Report bugs and other stuff to me
+
 ---
 
 ## Installation
+(this works just with python for now, full app soon)
 
 ```bash
-git clone https://github.com/bliybubik-stack/SHAME-fmbSaver.git
-cd SHAME-fmbSaver
-pip install opencv-python mss pynput pillow numpy
-python roast_trainer.py
+1: git clone https://github.com/bliybubik-stack/SHAME-fmbSaver.git
+2: cd SHAME-fmbSaver
+3: pip install opencv-python mss pynput pillow numpy
+4: python roast_trainer.py
