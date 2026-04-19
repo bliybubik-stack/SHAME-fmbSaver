@@ -11,7 +11,7 @@
 # Roast Trainer - Korblox Edition
 
 ![Demo](https://i.imgur.com/placeholder1.gif)
-![Normal Roast](https://i.imgur.com/placeholder2.png)
+![Normal Roast](https://github.com/bliybubik-stack/SHAME-fmbSaver/blob/main/Femboy-preview.png)
 ![Femboy Roast](https://i.imgur.com/placeholder3.png)
 
 Roast Trainer is the world's most unhinged productivity tool. It detects Roblox buy buttons and instantly roasts you every time you hover over one. Every 5th roast turns pink and hits you with unexpected femboy energy (meow daddy~).
