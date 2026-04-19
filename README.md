@@ -23,14 +23,14 @@ The result? You stop wasting Robux. Somehow. It works.
 ## Features
 
 - Instant aggressive roasts - 0ms delay, full-screen shame
-- Special femboy style - every 5 catches (added fot fun)
+- Special femboy style - every 5 catches (added for fun)
 - One-time calibration - draw a box around any buy button
 - Blazing fast - 1000+ FPS screen scanning
 - Remembers your button - template saved forever
 
 ## Other
---My use of ABSOLUTELY free will
---Report bugs and other stuff to me
+- My use of ABSOLUTELY free will
+- Report bugs and other stuff to me
 
 ---
 
