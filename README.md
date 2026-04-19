@@ -20,6 +20,10 @@ The result? You stop wasting Robux. Somehow. It works.
 
 ---
 
+## Disclaimer
+This software does not actually send femboys to your house.
+Probably.
+
 ## Features
 
 - Instant aggressive roasts - 0ms delay, full-screen shame
