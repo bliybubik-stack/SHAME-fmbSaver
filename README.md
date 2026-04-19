@@ -38,11 +38,19 @@ Probably.
 
 ---
 
-## Installation
-(this works just with python for now, full app soon)
+## Installation (Windows/Mac/Linux):
+- works for everything
+## Quick Start (Windows)
 
-```bash
-1: git clone https://github.com/bliybubik-stack/SHAME-fmbSaver.git
-2: cd SHAME-fmbSaver
-3: pip install opencv-python mss pynput pillow numpy
-4: python roast_trainer.py
+1. Download this repo as ZIP
+2. Extract the folder
+3. Double-click `install.bat` (one time only)
+4. Double-click `run.bat` to start
+
+## Quick Start (Mac/Linux)
+
+1. Download this repo as ZIP
+2. Extract the folder
+3. Open terminal in the folder
+4. Run: `chmod +x install.sh run.sh && ./install.sh`
+5. Run: `./run.sh`
